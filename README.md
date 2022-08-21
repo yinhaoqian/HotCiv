@@ -14,4 +14,12 @@ __PLEASE DO NOT INCLUDE THEM IN YOUR OWN SUBMISSIONS.__
 ![alt text](https://github.com/chien916/FALL2021_ECE1145/blob/main/_g.jpg?raw=true)
 
 # VIDEO DEMOSTRATIONS
-NOT AVAILABLE
+ITERATIONS 0,2,4,8 ARE THE ONLY ONES AVAILABLE
+###### ITERATION0
+[![Watch the video](https://img.youtube.com/vi/8epwCm3ybA0/maxresdefault.jpg)](https://youtu.be/8epwCm3ybA0)
+###### ITERATION2
+[![Watch the video](https://img.youtube.com/vi/vcOm5CMwNu0/maxresdefault.jpg)](https://youtu.be/vcOm5CMwNu0)
+###### ITERATION4
+[![Watch the video](https://img.youtube.com/vi/-aKJqlD1BtE/maxresdefault.jpg)](https://youtu.be/-aKJqlD1BtE)
+###### ITERATION8
+[![Watch the video](https://img.youtube.com/vi/xoJx4BNvpFg/maxresdefault.jpg)](https://youtu.be/xoJx4BNvpFg)
